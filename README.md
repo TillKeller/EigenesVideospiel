@@ -35,11 +35,11 @@ Bespiel:
 
 <code>cd \ </code>
 
-<code>mkdir dev<code>
+<code>mkdir dev</code>
 
-<code>cd \dev <code>
+<code>cd \dev </code>
 
-<code>git clone git@github.com:TillKeller/EigenesVideospiel.git<code>
+<code>git clone git@github.com:TillKeller/EigenesVideospiel.git</code>
 
 ### git repository klonen
 <code>git clone git@github.com:TillKeller/EigenesVideospiel.git</code>
@@ -52,8 +52,8 @@ Bespiel:
 
 <code>git add *</code>
 
-### git reository - Dateien-Änderungen in lokale Repository schreiben (commit)
-<code>git commit - "mein Kommentar"</code>
+### git repository - Dateien-Änderungen in lokale Repository schreiben (commit)
+<code>git commit -m "mein Kommentar"</code>
 
 ### git repository - Änderungen zu github senden
 <code>git push</code>
